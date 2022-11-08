@@ -1,14 +1,14 @@
 {
   "name": "onsenui-v2-react-tabbar-vite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "cordova-plugin-splashscreen": "6.0.0",
     "monaca-plugin-monaca-core": "3.3.1",
-    "onsenui": "~2.12.2",
-    "react-onsenui": "~1.13.0"
+    "onsenui": "2.12.6",
+    "react-onsenui": "1.13.2"
   },
   "scripts": {
     "monaca:preview": "npm run dev & npm run watch",
